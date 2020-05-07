@@ -5,7 +5,7 @@ def mnozenie_list(lista1, lista2):
         return lista
     else:
         return []
-
+string = "Jeszcze jak!"
 
 lista_pierwsza = [100, 250, 67, 19, 55]
 pierwsza_lista = [1,2,3,4,5]
